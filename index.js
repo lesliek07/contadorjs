@@ -35,4 +35,4 @@ rest1.addEventListener('click', ()=>{
         total.innerHTML = cont*precio;
     }
 
-})
+});
